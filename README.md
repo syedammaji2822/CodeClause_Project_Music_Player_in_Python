@@ -11,7 +11,7 @@ Having ensured that we have everything set correctly from this step, we can now 
 # Python Libraries Needed
 In order for us to have our application up and running, we will need to make use of some Python libraries that will make it easier to develop the application by adding some functionalities and interactivity to our application. They include:
 
-Tkinter – Used to create a GUI interface for our application.
+* Tkinter – Used to create a GUI interface for our application.
 * Pygame – Used to include the sound libraries designed to be used with Python.
 
 # Steps to Develop MP3 Music Player App
