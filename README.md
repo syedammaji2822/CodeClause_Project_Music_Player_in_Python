@@ -1,5 +1,5 @@
 # This is a Music player program which is written in python
-#Project Requirements
+##Project Requirements
 
 make sure that you have Python installed in your machine and a code editor, too. In this case any code editor will be fine, including Pycharm, VS Code, Atom or any of your choice.
 
